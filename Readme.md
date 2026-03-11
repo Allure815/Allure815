@@ -1,4 +1,4 @@
-# Hi 👋
+# Hey👋
 
 Aspiring AI / Machine Learning Engineer focused on building real-world AI systems powered by Deep Learning and Large Language Models.
 
