@@ -25,6 +25,8 @@
 | 🖼️ [**CNN Image Quality Checker**](https://github.com/Allure815/image_quality_checker) | Deep learning model that detects image quality issues using CNNs | `Python` `PyTorch` `CNN` |
 | 📉 [**ANN Customer Churn Predictor**](https://github.com/Allure815/ai-churn-prediction-ann) | Neural network model predicting customer churn from behavioral data | `Python` `PyTorch` `ANN` |
 | 💬 [**Sentiment Analyzer**](https://github.com/Allure815/Sentiment-Analyzer) | NLP-based sentiment classification tool | `Python` `NLP` |
+| 🔎 [**Faiss Chatbot**](https://github.com/Allure815/Faiss_Chatbot) | Semantic-search chatbot that retrieves answers from a knowledge base using vector embeddings instead of keyword matching | `Python` `FAISS` `Sentence Transformers` `Streamlit` |
+| 📦 [**dqie**](https://github.com/Allure815/dqie) | *(Add a one-line description here)* | *(Add tech stack here)* |
 
 ---
 
